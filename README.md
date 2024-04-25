@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shashinoor13" alt="shashinoor13" /></a> </p>
 
-- 🔭 I’m currently working on **Re-Sell It**
+- 🔭 I’m currently working on **AR Travel Guide**
 
-- 🌱 I’m currently learning **Flutter and Express**
+- 🌱 I’m currently learning **AR CORE implementation on Flutter**
 
 <p align="left">
 </p>

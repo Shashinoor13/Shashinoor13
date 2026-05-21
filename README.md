@@ -1,62 +1,122 @@
-<h2 align="left">Hi 👋! My name is Shashinoor Ghimire</h2>
+```
+███████╗██╗  ██╗ █████╗ ███████╗██╗  ██╗██╗███╗   ██╗ ██████╗  ██████╗ ██████╗
+██╔════╝██║  ██║██╔══██╗██╔════╝██║  ██║██║████╗  ██║██╔═══██╗██╔═══██╗██╔══██╗
+███████╗███████║███████║███████╗███████║██║██╔██╗ ██║██║   ██║██║   ██║██████╔╝
+╚════██║██╔══██║██╔══██║╚════██║██╔══██║██║██║╚██╗██║██║   ██║██║   ██║██╔══██╗
+███████║██║  ██║██║  ██║███████║██║  ██║██║██║ ╚████║╚██████╔╝╚██████╔╝██║  ██║
+╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═════╝ ╚═╝  ╚═╝
+```
 
-###
+```bash
+┌──(shashinoor㉿github)-[~]
+└─$ whoami --verbose
+```
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shashinoor13&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shashinoor13&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+```yaml
+name:    Shashinoor Ghimire
+role:    Backend AI Engineer
+focus:   LLM Systems · RAG Pipelines · Agentic AI · Backend
+status:  ONLINE ██████████ 100%
+```
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" width="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" width="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" width="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" width="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="30" width="30" alt="opencv logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" width="30" alt="selenium logo"  />
-</div>
+```bash
+┌──(shashinoor㉿github)-[~]
+└─$ cat skills.toml
+```
 
-###
+```toml
+[AI_and_LLM]
+models     = "GPT-4o · GPT-4.1 · Azure OpenAI"
+frameworks = "LangChain · Agentic Orchestration · Multi-Agent Systems"
+techniques = "RAG · Fine-Tuning (LoRA/QLoRA) · Quantization (GGUF·INT8·INT4)"
+tooling    = "Prompt Engineering · Tool Calling · Embeddings · Whisper"
 
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:1360/0*7Q3yvSIv_t0ioJ-Z.gif"  />
+[Backend]
+frameworks = "FastAPI · Node.js · Express · Django"
+protocols  = "REST · GraphQL · WebSocket · SSE"
 
-###
+[Databases]
+sql        = "PostgreSQL · MySQL"
+nosql      = "MongoDB · Redis · Firebase"
 
-<div align="left">
-  <a href="https://www.instagram.com/_shashinoor_ghimire/" target=_blank>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"/>
-  </a>
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+[Cloud_and_DevOps]
+platforms  = "AWS · Azure (ACI · Azure OpenAI)"
+tooling    = "Docker · GitHub Actions · GitLab CI/CD"
 
-###
+[ML]
+frameworks = "PyTorch · TensorFlow · scikit-learn"
 
-<br clear="both">
+[Languages]
+primary    = "Python · TypeScript · JavaScript"
+secondary  = "Java · C++ · C#"
+
+[Healthcare]
+systems    = "Epic EHR / EPICS Health · Clinical Data Pipelines"
+```
+
+<br>
+
+<!-- AI/LLM -->
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+
+<!-- Backend -->
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+
+<!-- Languages -->
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+
+<!-- Databases -->
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+<!-- Cloud & DevOps -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+```bash
+┌──(shashinoor㉿github)-[~]
+└─$ cat /etc/contact.conf
+```
+
+```ini
+[social]
+instagram  = https://www.instagram.com/_shashinoor_ghimire/
+linkedin   = https://linkedin.com/in/shashinoor-ghimire
+email      = shashinoorghimire13@gmail.com
+portfolio  = https://shashinoor.com.np
+```
+
+---
+
+```bash
+┌──(shashinoor㉿github)-[~]
+└─$ ./snake.sh --watch
+```
 
 <img src="https://raw.githubusercontent.com/shashinoor13/shashinoor13/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
-<div align="center">
-  <a href="https://open.spotify.com/user/31mujtyiravqfy4srli73r2rxscq">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31mujtyiravqfy4srli73r2rxscq&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
+```
+[EOF] -- session active -- press CTRL+C to disconnect
+```
